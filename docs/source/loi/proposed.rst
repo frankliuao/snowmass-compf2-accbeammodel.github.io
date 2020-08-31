@@ -25,10 +25,10 @@ For all other LOIs, please contact the mailing list for feedback.
 - **Physics-based high brightness beam injector modeling** - `view on google docs <https://drive.google.com/file/d/1-kInumHtiyOh1t_dCKXSm4d_uaaUnsNY/view?usp=sharing>`_ - *Chengkun Huang, Cho Ng, Tom Kwan,  Vitaly Pavlenko*.
 - **Consortium for PIC modeling in accelerator science** - `view on overleaf <https://www.overleaf.com/1134197644cshkfgdhcxzv>`_ - *Warren Mori, Frank Tsung*.
 - **Cloud computing and use in education** - *David Bruhwiler*.
-- **Quantum computing for accelerator and beam physics** - `view on overleaf <https://www.overleaf.com/read/jfxymdmvcnbb>`_ - *He Zhang, Ji Qiang*.
+- **Quantum computing for accelerator and beam physics** - `view on overleaf <https://www.overleaf.com/read/jfxymdmvcnbb>`_ - *He Zhang, Ji Qiang, Ao Liu, Roman Kostin, Ben Freemire*.
 - **Modeling of electron cooling from first princicples** - `view on overleaf <https://www.overleaf.com/read/xvgwfgbnprvr>`_ - *He Zhang*.
 - **Numerical Modeling for Superconducting Accelerator Magnets** - *Lucas Brouwer*.
 - **Surface Methods for Precision Accelerator Design and Virtual Prototyping of Accelerator Systems** - `view on overleaf <https://www.overleaf.com/read/gswgsxrfjpsw>`_ - *Robert D. Ryne, Dan T. Abell, D.L. Bruhwiler, Alex J. Dragt, Chad Mitchell, Ji Qiang, Jean-Luc Vay, and Peter Walstrom*.
-
+- **Interdisciplinary simulations: Integrating accelerator RF and particle-matter interaction codes** - `view on overleaf <https://www.overleaf.com/read/rddzyqmjrrcv>`_ - *Ao Liu, Ben Freemire, Cho-Kuen Ng, Zenghai Li*.
 
 
